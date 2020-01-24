@@ -1,0 +1,7 @@
+Good source on how to get started.
+
+https://opensource.com/article/18/1/step-step-guide-git
+
+Explained.
+https://www.youtube.com/watch?v=XiQnN-igNoc
+

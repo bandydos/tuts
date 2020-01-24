@@ -1,0 +1,14 @@
+Installing LAMP stack on linux.
+
+https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04
+
+Password set for root user.
+PHPMyAdmin installation.
+To go into mysql as root: mysql -u root -p.
+Create a new user ("bandy").
+
+For PHPMyAdmin.
+https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-18-04
+
+localhost/phpmyadmin
+Log in using username and password.
