@@ -1,0 +1,15 @@
+Installing zsh for windows
+___________________________
+
+
+
+instellingen => bijwerken & beveiliging => developer options => voor ontwikkelaars =>
+modus voor ontwikkelaars
+
+configuratiescherm => programma's en onderdelen => windows onderdelen in of uitschakelen
+=> Windows-subsysteem voor Linux => aanvinken
+
+Ubuntu downloaden van Microsoft store => opstarten => sudo apt update => sudo apt upgrade =>
+=> install zsh en o-m-zsh => vim ~/.bashrc => bash -c zsh
+
+
