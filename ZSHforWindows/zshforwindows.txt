@@ -13,3 +13,6 @@ Ubuntu downloaden van Microsoft store => opstarten => sudo apt update => sudo ap
 => install zsh en o-m-zsh => vim ~/.bashrc => bash -c zsh
 
 
+vscode integration.
+https://code.visualstudio.com/docs/editor/integrated-terminal
+
