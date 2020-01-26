@@ -1,0 +1,12 @@
+git init => initialize as git.
+git remote add origin https://origin.git => add origin (url to repos).
+git add . => add all files.
+git commit -m "message" => commit with some comment.
+git push -u origin master => push files to master branch.
+
+git status => files status.
+git log => view commits.
+
+rm -rf .git => undo init (remove .git files).
+git rm --cached filename => remove file.
+ 
