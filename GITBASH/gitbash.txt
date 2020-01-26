@@ -7,4 +7,7 @@ cd
 cd ../..
 => starten in C map.
 
-.bashrc => cd ../.. om standaard in C map op te starten bij nieuw subterminal.
+.bashrc => 
+cd
+cd ../.. 
+=> Om standaard in C map op te starten bij nieuw subterminal.
